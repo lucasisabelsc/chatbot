@@ -1,0 +1,22 @@
+{
+    "nome mensagem": "olá",
+    "nome_arquivo": "ola",
+    "mensagem": [
+        {
+            "role": "user",
+            "content": "olá"
+        },
+        {
+            "role": "assistant",
+            "content": "Olá! Como posso ajudar você hoje?"
+        },
+        {
+            "role": "user",
+            "content": "oi"
+        },
+        {
+            "role": "assistant",
+            "content": "Olá! Como posso ajudar você hoje?"
+        }
+    ]
+}

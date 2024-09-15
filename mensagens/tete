@@ -1,0 +1,26 @@
+{
+    "nome mensagem": "tete",
+    "nome_arquivo": "tete",
+    "mensagem": [
+        {
+            "role": "user",
+            "content": "tete"
+        },
+        {
+            "role": "user",
+            "content": "ola"
+        },
+        {
+            "role": "user",
+            "content": "olá"
+        },
+        {
+            "role": "user",
+            "content": "teste"
+        },
+        {
+            "role": "assistant",
+            "content": "Olá! Como posso ajudar você hoje?"
+        }
+    ]
+}
